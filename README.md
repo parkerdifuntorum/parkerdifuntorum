@@ -84,6 +84,5 @@ I'm especially interested in projects involving:
 ## Connect
 
 - Website: [parkerdifuntorum.com](https://parkerdifuntorum.com)
-- LinkedIn: Add your LinkedIn URL here
-- Google Scholar: Add your Google Scholar URL here
-- Email: Add a professional contact email here
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=3lpET5UAAAAJ)
+- Email: parkerdifuntorum@gmail.com
